@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://hackthon-store-dashbord.pages.dev"><img src="https://img.shields.io/badge/Live%20Prototype-Online%20(Cloudflare%20Edge)-10b981?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Prototype" /></a>
   <a href="hackthonvideo.mp4"><img src="https://img.shields.io/badge/Demo%20Video-90s%20(MP4)-E11D48?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" /></a>
-  <a href="Larana%20Company.pptx"><img src="https://img.shields.io/badge/Pitch%20Deck-PPTX-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Presentation Deck" /></a>
+  <a href="presentation.pptx"><img src="https://img.shields.io/badge/Pitch%20Deck-PPTX-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Presentation Deck" /></a>
   <img src="https://img.shields.io/badge/AI%20Engine-Google%20Gemini%202.5%20Flash-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/Language-Bilingual%20FR%20%2F%20EN-0E7A54?style=for-the-badge" alt="Bilingual" />
 </p>
@@ -15,7 +15,7 @@
 > **Projet Hackathon "Come Build with AI" (27 Septembre 2026)**  
 > **Accès Démo Direct :** [https://hackthon-store-dashbord.pages.dev](https://hackthon-store-dashbord.pages.dev)  
 > **🎬 Démo Vidéo (90s) :** [Regarder / Télécharger hackthonvideo.mp4](hackthonvideo.mp4)  
-> **📊 Présentation (Pitch Deck) :** [Télécharger Larana Company.pptx](Larana%20Company.pptx)  
+> **📊 Présentation (Pitch Deck) :** [Télécharger presentation.pptx](presentation.pptx)  
 > **Compte Prêt à l'Emploi (1 Clic) :** `ahmed@epicerie.tn` / `demo123`
 
 ---

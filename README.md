@@ -20,7 +20,7 @@
 
 ---
 
-## 📌 Présentation du Projet (Résumé < 150 mots)
+## 📌 Présentation du Projet
 
 **neostock** résout le problème critique des ruptures de stock et des marges écrasées qui font perdre 1.5% à 4% de chiffre d'affaires aux 120 000+ épiceries et commerces de proximité en Tunisie. Notre plateforme combine **Google Gemini 2.5 Flash** avec la formule d'approvisionnement optimal **EOQ (Economic Order Quantity)**, le **calendrier saisonnier agricole et commercial tunisien** (Ramadan, été, rentrée scolaire), et un ensemble statistique prédictif (WMA, EMA, SMA). L'assistant prédit la demande, calcule précisément les jours avant rupture par rapport aux délais grossistes, et génère des bons de commande WhatsApp instantanés. De plus, neostock inaugure le premier **terminal de marché de gros B2B en direct** et des **pools d'achats groupés**, permettant aux commerçants de mutualiser leurs volumes pour obtenir jusqu'à -20% de remise d'usine.
 

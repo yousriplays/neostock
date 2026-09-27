@@ -58,7 +58,7 @@ Source Code URL:
 https://github.com/yousriplays/neostock
 
 Presentation URL:
-https://docs.google.com/presentation/d/YOUR_PRESENTATION_ID/edit?usp=sharing
+https://github.com/yousriplays/neostock/raw/main/Larana%20Company.pptx
 
 
 5. A 90-SECOND DEMO VIDEO

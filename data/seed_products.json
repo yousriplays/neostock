@@ -1,0 +1,1367 @@
+[
+  {
+    "name": "Harissa Le Phare du Cap Bon",
+    "category": "condiments",
+    "unit": "tube",
+    "base_price_tnd": 2.8,
+    "base_monthly_demand": 120,
+    "supplier": "Société Le Phare",
+    "supplier_lead_days": 3,
+    "ordering_cost_tnd": 15,
+    "holding_cost_ratio": 0.1,
+    "current_stock": 7,
+    "avg_monthly_sales": 140.8,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 126,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 99,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 111,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 109,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 132,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 261,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 282,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 105,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 121,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 104,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 113,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 126,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 28,
+    "safety_stock": 14,
+    "stock_status": "critique",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Huile d'olive Carthage",
+    "category": "huiles",
+    "unit": "litre",
+    "base_price_tnd": 18.5,
+    "base_monthly_demand": 60,
+    "supplier": "Huilerie Carthage",
+    "supplier_lead_days": 5,
+    "ordering_cost_tnd": 25,
+    "holding_cost_ratio": 0.08,
+    "current_stock": 6,
+    "avg_monthly_sales": 64.0,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 53,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 63,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 73,
+        "seasonal_factor": 1.2
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 65,
+        "seasonal_factor": 1.2
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 75,
+        "seasonal_factor": 1.2
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 68,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 50,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 68,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 66,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 59,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 55,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 73,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 17,
+    "safety_stock": 6,
+    "stock_status": "critique",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Couscous Randa",
+    "category": "céréales",
+    "unit": "kg",
+    "base_price_tnd": 3.2,
+    "base_monthly_demand": 200,
+    "supplier": "Randa SA",
+    "supplier_lead_days": 2,
+    "ordering_cost_tnd": 12,
+    "holding_cost_ratio": 0.12,
+    "current_stock": 114,
+    "avg_monthly_sales": 307.2,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 256,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 171,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 295,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 273,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 294,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 665,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 626,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 242,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 198,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 212,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 234,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 220,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 51,
+    "safety_stock": 30,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Lait Vitalait",
+    "category": "produits_laitiers",
+    "unit": "litre",
+    "base_price_tnd": 1.9,
+    "base_monthly_demand": 350,
+    "supplier": "Vitalait",
+    "supplier_lead_days": 1,
+    "ordering_cost_tnd": 10,
+    "holding_cost_ratio": 0.15,
+    "current_stock": 109,
+    "avg_monthly_sales": 451.3,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 467,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 377,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 295,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 320,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 329,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 761,
+        "seasonal_factor": 2.5
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 814,
+        "seasonal_factor": 2.5
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 310,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 334,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 498,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 454,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 457,
+        "seasonal_factor": 1.3
+      }
+    ],
+    "reorder_point": 60,
+    "safety_stock": 45,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Dattes Deglet Nour",
+    "category": "fruits",
+    "unit": "kg",
+    "base_price_tnd": 12.0,
+    "base_monthly_demand": 40,
+    "supplier": "Palmeraie du Djérid",
+    "supplier_lead_days": 7,
+    "ordering_cost_tnd": 30,
+    "holding_cost_ratio": 0.06,
+    "current_stock": 23,
+    "avg_monthly_sales": 64.9,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 36,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 46,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 42,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 42,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 35,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 177,
+        "seasonal_factor": 4.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 144,
+        "seasonal_factor": 4.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 79,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 48,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 43,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 42,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 45,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 21,
+    "safety_stock": 6,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Thon El Manar",
+    "category": "conserves",
+    "unit": "boîte",
+    "base_price_tnd": 4.5,
+    "base_monthly_demand": 90,
+    "supplier": "El Manar SA",
+    "supplier_lead_days": 4,
+    "ordering_cost_tnd": 18,
+    "holding_cost_ratio": 0.08,
+    "current_stock": 77,
+    "avg_monthly_sales": 99.2,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 138,
+        "seasonal_factor": 1.4
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 81,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 90,
+        "seasonal_factor": 1.2
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 102,
+        "seasonal_factor": 1.2
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 100,
+        "seasonal_factor": 1.2
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 82,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 107,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 105,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 87,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 99,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 90,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 109,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 23,
+    "safety_stock": 9,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Boga Cidre",
+    "category": "boissons",
+    "unit": "bouteille",
+    "base_price_tnd": 1.2,
+    "base_monthly_demand": 250,
+    "supplier": "SFBT",
+    "supplier_lead_days": 2,
+    "ordering_cost_tnd": 8,
+    "holding_cost_ratio": 0.12,
+    "current_stock": 212,
+    "avg_monthly_sales": 330.8,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 228,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 228,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 258,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 232,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 262,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 439,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 372,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 232,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 306,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 524,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 447,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 441,
+        "seasonal_factor": 2.0
+      }
+    ],
+    "reorder_point": 55,
+    "safety_stock": 33,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Pâtes Warda",
+    "category": "céréales",
+    "unit": "paquet",
+    "base_price_tnd": 2.1,
+    "base_monthly_demand": 180,
+    "supplier": "Pâtes Warda",
+    "supplier_lead_days": 2,
+    "ordering_cost_tnd": 10,
+    "holding_cost_ratio": 0.1,
+    "current_stock": 226,
+    "avg_monthly_sales": 278.4,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 282,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 199,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 229,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 200,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 228,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 652,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 562,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 217,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 211,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 155,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 204,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 202,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 46,
+    "safety_stock": 27,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Café Bondin",
+    "category": "boissons",
+    "unit": "paquet",
+    "base_price_tnd": 8.5,
+    "base_monthly_demand": 70,
+    "supplier": "Bondin",
+    "supplier_lead_days": 5,
+    "ordering_cost_tnd": 20,
+    "holding_cost_ratio": 0.07,
+    "current_stock": 71,
+    "avg_monthly_sales": 98.8,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 64,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 73,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 60,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 69,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 70,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 125,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 122,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 66,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 72,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 129,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 168,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 167,
+        "seasonal_factor": 2.0
+      }
+    ],
+    "reorder_point": 26,
+    "safety_stock": 9,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Savon Lilas",
+    "category": "hygiène",
+    "unit": "unité",
+    "base_price_tnd": 3.0,
+    "base_monthly_demand": 55,
+    "supplier": "Sotupa",
+    "supplier_lead_days": 3,
+    "ordering_cost_tnd": 12,
+    "holding_cost_ratio": 0.1,
+    "current_stock": 98,
+    "avg_monthly_sales": 69.2,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 57,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 57,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 48,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 61,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 56,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 93,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 85,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 70,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 53,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 66,
+        "seasonal_factor": 1.4
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 93,
+        "seasonal_factor": 1.4
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 92,
+        "seasonal_factor": 1.4
+      }
+    ],
+    "reorder_point": 13,
+    "safety_stock": 6,
+    "stock_status": "bon",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Tomate concentrée Cap Bon",
+    "category": "condiments",
+    "unit": "boîte",
+    "base_price_tnd": 1.8,
+    "base_monthly_demand": 150,
+    "supplier": "Société Le Phare",
+    "supplier_lead_days": 3,
+    "ordering_cost_tnd": 10,
+    "holding_cost_ratio": 0.12,
+    "current_stock": 198,
+    "avg_monthly_sales": 175.0,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 139,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 126,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 172,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 176,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 130,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 305,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 261,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 169,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 170,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 135,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 156,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 161,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 35,
+    "safety_stock": 17,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Eau Safia",
+    "category": "boissons",
+    "unit": "pack_6",
+    "base_price_tnd": 3.5,
+    "base_monthly_demand": 300,
+    "supplier": "Safia",
+    "supplier_lead_days": 1,
+    "ordering_cost_tnd": 8,
+    "holding_cost_ratio": 0.15,
+    "current_stock": 29,
+    "avg_monthly_sales": 405.9,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 340,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 293,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 271,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 308,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 331,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 411,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 432,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 365,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 328,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 613,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 633,
+        "seasonal_factor": 2.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 546,
+        "seasonal_factor": 2.0
+      }
+    ],
+    "reorder_point": 54,
+    "safety_stock": 40,
+    "stock_status": "bas",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Yaourt Délice",
+    "category": "produits_laitiers",
+    "unit": "pack_4",
+    "base_price_tnd": 4.2,
+    "base_monthly_demand": 100,
+    "supplier": "Délice Danone",
+    "supplier_lead_days": 1,
+    "ordering_cost_tnd": 8,
+    "holding_cost_ratio": 0.2,
+    "current_stock": 25,
+    "avg_monthly_sales": 134.2,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 122,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 103,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 91,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 91,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 86,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 268,
+        "seasonal_factor": 2.5
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 232,
+        "seasonal_factor": 2.5
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 118,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 117,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 114,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 123,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 145,
+        "seasonal_factor": 1.3
+      }
+    ],
+    "reorder_point": 17,
+    "safety_stock": 13,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Semoule Amor Benamor",
+    "category": "céréales",
+    "unit": "kg",
+    "base_price_tnd": 2.5,
+    "base_monthly_demand": 130,
+    "supplier": "Amor Benamor",
+    "supplier_lead_days": 3,
+    "ordering_cost_tnd": 12,
+    "holding_cost_ratio": 0.1,
+    "current_stock": 22,
+    "avg_monthly_sales": 192.8,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 169,
+        "seasonal_factor": 1.5
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 151,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 175,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 169,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 190,
+        "seasonal_factor": 1.3
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 444,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 356,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 115,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 131,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 132,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 134,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 148,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 38,
+    "safety_stock": 19,
+    "stock_status": "bas",
+    "last_updated": "2026-09-27T08:00:00"
+  },
+  {
+    "name": "Chocolat Gandour",
+    "category": "confiserie",
+    "unit": "tablette",
+    "base_price_tnd": 5.0,
+    "base_monthly_demand": 45,
+    "supplier": "Gandour",
+    "supplier_lead_days": 5,
+    "ordering_cost_tnd": 15,
+    "holding_cost_ratio": 0.08,
+    "current_stock": 61,
+    "avg_monthly_sales": 66.3,
+    "sales_history": [
+      {
+        "month": "2025-10",
+        "month_num": 10,
+        "sales": 52,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-11",
+        "month_num": 11,
+        "sales": 38,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 43,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2025-12",
+        "month_num": 12,
+        "sales": 43,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-01",
+        "month_num": 1,
+        "sales": 51,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 125,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-03",
+        "month_num": 3,
+        "sales": 123,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-04",
+        "month_num": 4,
+        "sales": 137,
+        "seasonal_factor": 3.0
+      },
+      {
+        "month": "2026-05",
+        "month_num": 5,
+        "sales": 45,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-06",
+        "month_num": 6,
+        "sales": 43,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-07",
+        "month_num": 7,
+        "sales": 42,
+        "seasonal_factor": 1.0
+      },
+      {
+        "month": "2026-08",
+        "month_num": 8,
+        "sales": 54,
+        "seasonal_factor": 1.0
+      }
+    ],
+    "reorder_point": 17,
+    "safety_stock": 6,
+    "stock_status": "normal",
+    "last_updated": "2026-09-27T08:00:00"
+  }
+]
